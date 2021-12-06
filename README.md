@@ -46,11 +46,11 @@ You can find my certifications at📜 [Credly](https://www.credly.com/users/alan
 
 
 ## ❤️ Interpersonal skills
-| TimeManagement | EmotionalIntelligence | ProblemSolving | CriticalThinking | CreativeThinking | Teamwork | Leadership |
+| TimeMngmt | Emotional Intel | ProblemSolving | CriticalThinking | CreativeThinking | Teamwork | Leadership |
 | --- | --- | --- | --- | --- | --- | --- |
 |<img src="images/time-management.png" alt="drawing" width="64" height="64"/>|<img src="images/emotional-intelligence.png" alt="drawing" width="64" height="64"/>|<img src="images/problem.png" alt="drawing" width="64" height="64"/>|<img src="images/mindset.png" alt="drawing" width="64" height="64"/>|<img src="images/brain.png" alt="drawing" width="64" height="64"/>|<img src="images/teamwork.png" alt="drawing" width="64" height="64"/>|<img src="images/leadership.png" alt="drawing" width="64" height="64"/>|
 
-| TimeManagement | EmotionalIntelligence |
+| 80/20 | K.I.S.S |
 | --- | --- |
 |<img src="images/efficiency.png" alt="drawing" width="64" height="64"/>|<img src="images/kiss.png" alt="drawing" width="64" height="64"/>|
 
