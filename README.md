@@ -33,6 +33,7 @@ You can find my certifications at📜 [Credly](https://www.credly.com/users/alan
 ![](https://img.shields.io/badge/Tools-NewRelic-informational?style=flat&logo=newrelic&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-IIS-informational?style=flat&logo=webauthn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
@@ -42,6 +43,16 @@ You can find my certifications at📜 [Credly](https://www.credly.com/users/alan
 ![](https://img.shields.io/badge/Scripting-SQL-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Scripting-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Scripting-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
+
+
+## ❤️ Interpersonal skills
+| TimeManagement | EmotionalIntelligence | ProblemSolving | CriticalThinking | CreativeThinking | Teamwork | Leadership |
+| --- | --- | --- | --- | --- | --- | --- |
+|<img src="images/time-management.png" alt="drawing" width="64" height="64"/>|<img src="images/emotional-intelligence.png" alt="drawing" width="64" height="64"/>|<img src="images/problem.png" alt="drawing" width="64" height="64"/>|<img src="images/mindset.png" alt="drawing" width="64" height="64"/>|<img src="images/brain.png" alt="drawing" width="64" height="64"/>|<img src="images/teamwork.png" alt="drawing" width="64" height="64"/>|<img src="images/leadership.png" alt="drawing" width="64" height="64"/>|
+
+| TimeManagement | EmotionalIntelligence |
+| --- | --- |
+|<img src="images/efficiency.png" alt="drawing" width="64" height="64"/>|<img src="images/kiss.png" alt="drawing" width="64" height="64"/>|
 
 ## &#x1f4c8; GitHub Stats
 | Github Stats | Top Languages |
