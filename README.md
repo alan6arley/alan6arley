@@ -6,9 +6,9 @@ Dear reader, my adventure with technology began at 15, I worked for a while and 
 
 I learned about programming on my own, some time later I started working in customer service in a technology company, I wanted to be a programmer and showed that I could, I currently work as DevOps and continue in search of new experiences. 
 
-Sometimes i write in my blog 💬 [Medium](https://medium.com/@alan6arley)
+Sometimes i write in my blog [Medium](https://medium.com/@alan6arley) 💬
 
-You can find my certifications at📜 [Credly](https://www.credly.com/users/alan-arley-contreras/badges)
+You can find my certifications at [Credly](https://www.credly.com/users/alan-arley-contreras/badges) 📜
 
 ## 📫 You can find me: 
 ✨ [LinkedIn](https://www.linkedin.com/in/alan6arley/)
@@ -34,6 +34,7 @@ You can find my certifications at📜 [Credly](https://www.credly.com/users/alan
 ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-IIS-informational?style=flat&logo=webauthn&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-ActiveDirectory-informational?style=flat&logo=readthedocs&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
@@ -45,23 +46,21 @@ You can find my certifications at📜 [Credly](https://www.credly.com/users/alan
 ![](https://img.shields.io/badge/Scripting-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 
 
+<!-- Icons from: https://www.flaticon.com/ -->
 ## ❤️ Interpersonal skills
-| TimeMngmt | Emotional Intel | ProblemSolving | CriticalThinking | CreativeThinking | Teamwork | Leadership |
+| Time Mngmt | Emotional Intel | Problem Solving | Critical Thinking | Creative Thinking | Teamwork | Leadership |
 | --- | --- | --- | --- | --- | --- | --- |
 |<img src="images/time-management.png" alt="drawing" width="64" height="64"/>|<img src="images/emotional-intelligence.png" alt="drawing" width="64" height="64"/>|<img src="images/problem.png" alt="drawing" width="64" height="64"/>|<img src="images/mindset.png" alt="drawing" width="64" height="64"/>|<img src="images/brain.png" alt="drawing" width="64" height="64"/>|<img src="images/teamwork.png" alt="drawing" width="64" height="64"/>|<img src="images/leadership.png" alt="drawing" width="64" height="64"/>|
 
-| 80/20 | K.I.S.S |
-| --- | --- |
-|<img src="images/efficiency.png" alt="drawing" width="64" height="64"/>|<img src="images/kiss.png" alt="drawing" width="64" height="64"/>|
+## 🔰 Principles and others
+| [80/20](https://en.wikipedia.org/wiki/Pareto_principle) | [K.I.S.S](https://en.wikipedia.org/wiki/KISS_principle) | [Automation](https://en.wikipedia.org/wiki/Automation) |
+| --- | --- | --- |
+|<img src="images/efficiency.png" alt="drawing" width="64" height="64"/>|<img src="images/kiss.png" alt="drawing" width="64" height="64"/>|<img src="images/automation.png" alt="drawing" width="64" height="64"/>|
 
 ## &#x1f4c8; GitHub Stats
 | Github Stats | Top Languages |
 | --- | --- |
 | ![Github stats](https://github-readme-stats.vercel.app/api?username=alan6arley&show_icons=true&theme=gotham) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alan6arley&langs_count=10&layout=compact&theme=gotham) |
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alan6arley&repo=Todo-Web)](https://github.com/alan6arley/Todo-Web) 
-Used to pin repos.. use it later
--->
 
 ## 😂 Now a random joke!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
